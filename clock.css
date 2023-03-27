@@ -1,0 +1,70 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #000;
+}
+#heading{
+    font-size: 52px;
+    color: white;
+    
+    position: absolute;
+    top: 16%;
+    left:38%;
+    border: 4px deeppink solid;
+    width: 24%;
+    text-align: center;
+    text-shadow: 45px;
+    border-style: outset;
+    box-shadow: 120px;
+    text-shadow: 120px;
+    
+}
+
+#hour{    
+    border: 10px white solid;
+    width: 166px;
+    height: 210px;
+    position: absolute;
+    top: 32%;
+    left: 17%; 
+    background-color: mediumspringgreen;
+}
+#hm{
+    position: absolute;
+    top: 32%;
+    
+    left: 25%;
+    color: blue;
+}
+#minute{
+    border: 10px blue solid;
+    width: 170px;
+    height: 212px;
+    position: absolute;
+    top: 32%;
+    left: 45%;
+    background-color: yellow;
+}
+#mn{
+    color: blue;
+    position: absolute;
+    top: 32%;
+    left: 18%;
+    
+}
+#second{
+    border: 10px greenyellow outset;
+    width: 182px;
+    height: 210px;
+    position: absolute;
+    top: 32%;
+    left: 75%;
+    background-color: aqua;
+}
+#sc{
+    position: absolute;
+    top: 32%;
+    left: 18%;
+}
